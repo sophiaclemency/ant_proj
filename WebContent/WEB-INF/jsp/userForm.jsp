@@ -23,6 +23,10 @@
 			<td><form:password path="password" /></td>
 		</tr>
 		<tr>
+			<td>Student Email :</td>
+			<td><form:input path="Email" /></td>
+		</tr>
+		<tr>
 			<td>Gender :</td>
 			<td><form:radiobutton path="gender" value="M" label="M" /> 
 				<form:radiobutton path="gender" value="F" label="F" /></td>
