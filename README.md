@@ -1,1 +1,1 @@
-demo project # ant_proj
+demo proj # ant_proj
